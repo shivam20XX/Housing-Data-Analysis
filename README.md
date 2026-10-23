@@ -24,7 +24,7 @@ This page provides an overview of housing sales prices and sales growth.
 
 <!-- Add your first dashboard screenshot here -->
 
-![Housing Market Analysis](images/housing-market-analysis.png)
+![Housing Market Analysis](Screenshots/housing-market-analysis.png)
 
 ### 2. Sales Performance
 
@@ -41,7 +41,7 @@ This page compares sales across regions and sales types and provides detailed sa
 
 <!-- Add your second dashboard screenshot here -->
 
-![Sales Performance](images/sales-performance.png)
+![Sales Performance](Screenshots/sales-performance.png)
 
 ### 3. House Type Analysis
 
@@ -62,7 +62,7 @@ This page compares offer prices, purchase prices, inflation, interest, yield, ar
 
 <!-- Add your third dashboard screenshot here -->
 
-![House Type Analysis](images/house-type-analysis.png)
+![House Type Analysis](Screenshots/house-type-analysis.png)
 
 ## DAX Formulas Used
 
