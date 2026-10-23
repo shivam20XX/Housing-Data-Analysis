@@ -22,8 +22,6 @@ This page provides an overview of housing sales prices and sales growth.
 
 **Dashboard Screenshot**
 
-<!-- Add your first dashboard screenshot here -->
-
 ![Housing Market Analysis](Screenshots/housing-market-analysis.png)
 
 ### 2. Sales Performance
@@ -39,13 +37,11 @@ This page compares sales across regions and sales types and provides detailed sa
 
 **Dashboard Screenshot**
 
-<!-- Add your second dashboard screenshot here -->
-
 ![Sales Performance](Screenshots/sales-performance.png)
 
 ### 3. House Type Analysis
 
-This page compares offer prices, purchase prices, inflation, interest, yield, area, and price per square metre across different house types.
+This page compares offer prices, purchase prices, inflation, interest, yield, area, and price per square meter across different house types.
 
 **Available Filters:**
 - Area
@@ -59,8 +55,6 @@ This page compares offer prices, purchase prices, inflation, interest, yield, ar
 - Average SQM / SQM Price by House Type
 
 **Dashboard Screenshot**
-
-<!-- Add your third dashboard screenshot here -->
 
 ![House Type Analysis](Screenshots/house-type-analysis.png)
 
@@ -209,26 +203,6 @@ RETURN
 - The dashboard displays units sold for the latest year and quarter and total sales over the latest 12 months.
 - Offer prices are compared with purchase prices using a scatter plot.
 - Year-on-year sales growth is compared across regular_sale, family_sale, other_sale, and auction.
-- Sales performance is analyzed by region and average price per square metre.
+- Sales performance is analyzed by region and average price per square meter.
 - Property prices and characteristics are compared across different house types.
 
-*Insights are based on the supplied dashboard PDF. Results depend on the underlying data and report context.*
-
-## Tools Used
-
-- Google BigQuery
-- Power BI
-- DAX (Data Analysis Expressions)
-- Microsoft Excel
-
-## Project Files
-
-- `Housing Data Analysis (Google BigQuery)-1.pdf` - Dashboard reference
-- `DAX+Formulae+Housing+Data.xlsx` - DAX formulas
-- `README.md` - Project documentation
-
-## Notes
-
-- DAX formulas are based on the supplied Excel workbook.
-- The formula name `Offer to SQM Ration` is preserved as written in the source workbook.
-- Create an `images` folder in the repository and replace the sample image paths with your actual screenshot filenames.
