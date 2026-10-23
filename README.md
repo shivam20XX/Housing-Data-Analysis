@@ -60,8 +60,6 @@ This page compares offer prices, purchase prices, inflation, interest, yield, ar
 
 ## DAX Formulas Used
 
-The following formulas are taken from `DAX+Formulae+Housing+Data.xlsx`.
-
 ### Calculated Columns
 
 #### 1. Age
