@@ -20,7 +20,6 @@ This page provides an overview of housing sales prices and sales growth.
 - Offer Price vs Purchase Price
 - Year-on-Year Sales Growth by Sales Type
 
-**Dashboard Screenshot**
 
 ![Housing Market Analysis](Screenshots/housing-market-analysis.png)
 
@@ -35,7 +34,6 @@ This page compares sales across regions and sales types and provides detailed sa
 - Offer to SQM by Sales Type
 - Average Price SQM by Region
 
-**Dashboard Screenshot**
 
 ![Sales Performance](Screenshots/sales-performance.png)
 
@@ -54,7 +52,6 @@ This page compares offer prices, purchase prices, inflation, interest, yield, ar
 - Average Inflation / Interest / Yield Price by House Type
 - Average SQM / SQM Price by House Type
 
-**Dashboard Screenshot**
 
 ![House Type Analysis](Screenshots/house-type-analysis.png)
 
